@@ -1,0 +1,7 @@
+body {
+       background: url(../img/business-man-emoticon.jpg);
+       -webkit-background-size: cover;
+       -moz-background-size: cover;
+       -o-background-size: cover;
+       background-size: cover;
+}
