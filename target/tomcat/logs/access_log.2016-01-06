@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [06/Jan/2016:19:08:15 +0530] "GET /MeraComputer HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [06/Jan/2016:19:08:15 +0530] "GET /MeraComputer/ HTTP/1.1" 200 1112 http-bio-8080-exec-3 124
+0:0:0:0:0:0:0:1 - - [06/Jan/2016:19:08:16 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [06/Jan/2016:19:09:02 +0530] "POST /MeraComputer/loginForm HTTP/1.1" 200 1042 http-bio-8080-exec-5 282
+0:0:0:0:0:0:0:1 - - [06/Jan/2016:19:09:12 +0530] "POST /MeraComputer/loginForm HTTP/1.1" 200 1133 http-bio-8080-exec-6 93
